@@ -1,8 +1,5 @@
 import React from 'react'
-
 import "../CSS/Custom.css"
-import Navbar from './Navbar'
-import { Box } from '@mui/material'
 
 const skillsIcons = [
   {
@@ -32,7 +29,7 @@ const skillsIcons = [
 
 ];
 
-export default function Hero({ linksArray }) {
+export default function Hero() {
 
   return (
     <div>
@@ -43,8 +40,8 @@ export default function Hero({ linksArray }) {
               <div className="hero-main">
 
                 <div className="hero-text TEXT">
-                  <h1>.</h1>
-
+                  <h1 style={{color:"white"}}>.</h1>
+                  <h1 style={{color:"white"}}>.</h1>
                   <h1>MERN Stack Developer</h1>
                   {/* <img src={Waving} alt="waving_hand" /> */}
                   <p>
