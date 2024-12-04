@@ -53,7 +53,7 @@ export default function Hero() {
                       aria-label="linkedin"
                       rel="noreferrer"
                       target="_blank"
-                      href="https://www.linkedin.com/in/stefan-topalovic-dev/"
+                      href="https://www.linkedin.com/in/muhammad-ezaan-ali/"
                     >
                       {/* <IconBrandLinkedin width={32} height={32} /> */}
                     </a>
@@ -61,7 +61,7 @@ export default function Hero() {
                       aria-label="github"
                       rel="noreferrer"
                       target="_blank"
-                      href="https://github.com/stefvndev"
+                      href="https://github.com/ezaanCodes"
                     >
                       {/* <IconBrandGithub width={32} height={32} /> */}
                     </a>
